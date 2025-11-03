@@ -20,6 +20,6 @@ Previously: Building governance tools and DeFi infrastructure
 GraphQL querying • Discord/Telegram APIs • Twitter automation • Real-time data extraction
 
 
-- **[web3-governance-query](link)** - Automated Snapshot.page querying with GraphQL
-- **[discord-alert-bot](link)** - Telegram notifications for Discord mentions
-- **[jediswap-force-wielder](link)** - Twitter automation for DeFi community incentives
+- **[web3-governance-query](https://github.com/al-matty/web3-governance-query)** - Automated Snapshot.page querying with GraphQL
+- **[discord-alert-bot](https://github.com/jediswaplabs/discord-alert-bot)** - Telegram notifications for Discord mentions
+- **[jediswap-force-wielder](https://github.com/jediswaplabs/jediswap-force-wielder)** - Twitter automation for DeFi community incentives
