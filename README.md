@@ -17,7 +17,7 @@ Data pipelines × Automation × Analytics × Scraping × Web3
 
 ### 🛠️ Featured Work
 
-GraphQL querying • Discord/Telegram APIs • Twitter automation • Real-time data extraction
+GraphQL querying • Discord/Telegram APIs • Twitter automation • Real-time data extraction • OAuth integration
 
 
 - **[jediswap-force-wielder](https://github.com/jediswaplabs/jediswap-force-wielder)** - Advanced Tweet Mining & Processing (Pandas ETL)
