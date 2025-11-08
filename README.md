@@ -16,7 +16,7 @@ Previously: Building governance tools and DeFi infrastructure
 
 
 ### 🛠️ Featured Work
-**API Integration & Scraping**  
+
 GraphQL querying • Discord/Telegram APIs • Twitter automation • Real-time data extraction
 
 
