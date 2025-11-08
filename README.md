@@ -9,9 +9,8 @@
 
 Data pipelines × Automation × Analytics × Scraping × Web3
 
-Currently: Building data pipelines and automated processes
-
-Previously: Building governance tools and DeFi infrastructure
+* Currently: Building data pipelines and automated processes
+* Previously: Building governance tools and DeFi infrastructure
 
 **Stack**: Python • Snowflake • dbt • Tableau • Alteryx • Bash • Web3
 
