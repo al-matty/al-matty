@@ -21,5 +21,5 @@ GraphQL querying • Discord/Telegram APIs • Twitter automation • Real-time 
 
 
 - **[jediswap-force-wielder](https://github.com/jediswaplabs/jediswap-force-wielder)** - Advanced Tweet Mining & Processing (Pandas ETL)
-- **[discord-alert-bot](https://github.com/jediswaplabs/discord-alert-bot)** - Fully Async Telegram Notifications bot for Discord mentions
+- **[discord-alert-bot](https://github.com/jediswaplabs/discord-alert-bot)** - Fully Async Telegram Notifications Bot for Discord Mentions
 - **[web3-governance-query](https://github.com/al-matty/web3-governance-query)** - Automated Snapshot.page Querying with GraphQL
