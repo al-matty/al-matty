@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝╚══════╝ ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝      ╚═╝   
 ```
 
-Data pipelines × Web3 automation × Analytics
+Data pipelines × Automation × Analytics × Scraping × Web3
 
 Currently: Building data pipelines and automated processes
 Previously: Building governance tools and DeFi infrastructure
