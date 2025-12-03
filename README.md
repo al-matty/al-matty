@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝╚══════╝ ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝      ╚═╝   
 ```
 
-| 🎄 **Currently participating in [Advent of Code 2025](https://github.com/al-matty/advent-of-code/tree/main)!** |
+| 🎄 **Currently participating in [Advent of Code 2025](https://github.com/al-matty/advent-of-code/tree/main)!** <- click for repo |
 | --- | 
 
 Data pipelines × Automation × Analytics × Scraping × Web3
