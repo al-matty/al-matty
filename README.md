@@ -20,8 +20,9 @@ Data pipelines × Automation × Analytics × Scraping × Web3
 
 GraphQL querying • Discord/Telegram APIs • Twitter automation • Real-time data extraction
 
-
+- **[soma](https://github.com/al-matty/soma)** - Local-first health data pipeline: Lab PDFs → DuckDB → dbt → agent-readable knowledge base
+- **[🎄Advent of Code 2025](https://github.com/al-matty/advent-of-code/tree/main)** - My Python solutions to the well-known yearly challenge
 - **[jediswap-force-wielder](https://github.com/jediswaplabs/jediswap-force-wielder)** - Advanced Tweet Mining & Processing (Pandas ETL)
-- **[discord-alert-bot](https://github.com/jediswaplabs/discord-alert-bot)** - Fully Async Telegram Notifications Bot for Discord Mentions
-- **[web3-governance-query](https://github.com/al-matty/web3-governance-query)** - Automated Snapshot.page Querying with GraphQL
-- **[🎄Advent of Code 2025](https://github.com/al-matty/advent-of-code/tree/main)** - My Python Solutions to the well-known Yearly Challenge
+- **[discord-alert-bot](https://github.com/jediswaplabs/discord-alert-bot)** - Fully Async Telegram notifications bot for Discord mentions
+- **[web3-governance-query](https://github.com/al-matty/web3-governance-query)** - Automated snapshot.page querying with GraphQL
+
